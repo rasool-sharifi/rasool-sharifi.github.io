@@ -1,5 +1,5 @@
 ---
-title: "Online Profiling for cluster-specific variable rate refreshing in high-density DRAM systems"
+title: "Online Profiling for Cluster-Specific Variable Rate Refreshing in High-Density DRAM Systems"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 22-26 May 2017
