@@ -7,5 +7,3 @@ venue: '2017 22nd IEEE European Test Symposium (ETS)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
