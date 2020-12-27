@@ -26,9 +26,9 @@ The main configuration file for the site is in the base directory in [_config.ym
 *2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)*\
 [[PDF]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf) [[Talk]](https://fast.wistia.net/embed/iframe/xrq0ht9iic)
 
-**CHEx86: Context-Sensitive Enforcement of Memory Safety via Microcode-Enabled Capabilities**\
-*2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)*\
-[[pdf]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf)
+**Online Profiling for Cluster-Specific Variable Rate Refreshing in High-Density DRAM Systems**\
+*2017 22nd IEEE European Test Symposium (ETS)*\
+[[PDF]](http://rasool-sharifi.github.io/files/2017OnlineProfiling.pdf)
 
 News
 ------
