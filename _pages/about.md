@@ -24,7 +24,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 **CHEx86: Context-Sensitive Enforcement of Memory Safety via Microcode-Enabled Capabilities**\
 2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)\
-[pdf](http://rasool-sharifi.github.io/files/2020CHEx86.pdf)
+[[pdf]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf)
 
 
 News
