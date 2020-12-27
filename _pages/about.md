@@ -12,7 +12,7 @@ About me
 ------
 I am a third year Ph.D. student in the Computer Science Department of University of Virginia, working with Prof. Ashish Venkat on Computer Architecture. My research interests lie broadly in Computer Architecture, Compilers, and Computer Security. My research explores novel hardware and software techniques to design secure machines while maintaining performance, energy efficiency,and high programmability. I’m also interested in applying novel machine learning techniques to detect and mitigate security threats. I have extensive experience in designing high performance, energy efficient FPGA and embedded systemsfor core consumer products. You can find my CV [here](http://rasool-sharifi.github.io/files/RasoolSharifiCV.pdf). 
 
-Projects
+Research Projects
 ------
 **Hardware-Implemented Security Assurance For x86 Processors**\
 *Advised by Prof. Ashish Venkat*
