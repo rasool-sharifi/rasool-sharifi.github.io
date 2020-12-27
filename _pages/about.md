@@ -14,20 +14,21 @@ I am a third year Ph.D. student in the Computer Science Department of University
 
 Projects
 ------
-**Rethinking Persistent Memory Systems**\
+**Processing in Memory for Bioinformatics Applications**\
 *Advised by Prof. Ashish Venkat*\
 
-**Rethinking Persistent Memory Systems**\
+
+**Processing in Memory for Bioinformatics Applications**\
 *Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*\
 
-**Rethinking Persistent Memory Systems**\
+**Processing in Memory for Bioinformatics Applications**\
 *Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*\
 
 
 Publications
 ------
 **CHEx86: Context-Sensitive Enforcement of Memory Safety via Microcode-Enabled Capabilities**\
-*2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)*\
+*2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)* **Acceptance Rate: 18%**\
 [[PDF]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf) [[Video]](https://fast.wistia.net/embed/iframe/xrq0ht9iic)
 
 **Online Profiling for Cluster-Specific Variable Rate Refreshing in High-Density DRAM Systems**\
