@@ -21,6 +21,8 @@ Projects
 **Processing in Memory for Bioinformatics Applications**\
 *Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*
 
+The  field  of  bioinformatics  has  enabled  significant  advances in human health through its contributions to precision medicine, disease surveillance, population genetics, and many other critical applications. The centerpiece of a bioinformatic spipeline  is  genome  sequence  comparison  and  classification, which  involves  aligning  query  sequences  against  reference sequences,  with  the  goal  of  identifying  patterns  of  structural similarity  and  divergence. This work  explores the design space  for high-performance k-mer  matching  accelerators  that  use  logic  in  DRAM  as  the basis  for  acceleration,  including  the  most  aggressive  form  of processing-in-memory(PIM), in-situ computing, with the goal of  parallel  processing  of  sequence  data  within  DRAM  row buffers. 
+
 **Speculative Super-optimization: Boosting Performance via Speculation-Driven Dynamic Binary Optimization**\
 *Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*
 
