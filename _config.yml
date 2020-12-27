@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasool's Personal Webpage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Rasool Sharifi"
 description              : &description "Research Scientist at University of Virginia"
