@@ -14,8 +14,11 @@ I am a third year Ph.D. student in the Computer Science Department of University
 
 Projects
 ------
-**Processing in Memory for Bioinformatics Applications**\
-*Advised by Prof. Ashish Venkat*\
+**Hardware-Implemented Security Assurance For x86 Processors**\
+*Advised by Prof. Ashish Venkat*
+
+This project explores methods to safeguard hardware against the seven classes of CWEs i.e., buffer errors; permissions; privileges and access; resource
+management; code injection; information leakage; hardware/system on a chip implementation errors; and numeric errors) for an x86 architecture. The solution should allow for backward compatibility with legacy software and deliver suitable performance on multicore workloads. Additionally, the x86 processor model or range of models which would be best candidates for a prototype design should be identified, and the impacts of additional cyber security safeguards are to performance, power, and area should be projected. Monolithic, multi-die, and co-processor approaches are of interest as is the strongest level of cryptographic acceleration able to be incorporated into a solution.
 
 
 **Processing in Memory for Bioinformatics Applications**\
