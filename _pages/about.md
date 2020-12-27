@@ -14,7 +14,7 @@ I am a third year Ph.D. student in the Computer Science Department of University
 
 Research Projects
 ------
-**Hardware-Implemented Security Assurance For x86 Processors**\
+**Processors Architecture Support for Security Assurance**\
 *Advised by Prof. Ashish Venkat*
 
 This project explores methods to safeguard hardware against the seven classes of CWEs i.e., buffer errors; permissions; privileges and access; resource
