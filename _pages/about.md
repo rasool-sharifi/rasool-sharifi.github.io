@@ -23,7 +23,6 @@ Projects
 
 **Speculative Super-optimization: Boosting Performance via Speculation-Driven Dynamic Binary Optimization**\
 *Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*\
-\
 
 This project explores dynamic binary optimization techniques at the processor level to speculatively generate and execute a super-optimized instruction stream, by leveraging established speculative processor features such as branch prediction, value prediction, and loop stream detection. This project introduces two distinct flavors of speculative super-optimization: (a) a hardware implementation that leverages dynamically predicted program state to perform simple, yet powerful peephole optimizations on short instruction sequences, and (b) a firmware implementation that leverages a microcode-based dynamic re-compiler running as a helper thread to perform more sophisticated optimizations. Owing to the plethora of speculative processor features and compiler/runtime/hardware optimizations to choose from, this project explores a rich sample space of speculative super-optimization strategies, along with extensive profitability analysis to dynamically identify appropriate targets for super-optimization.
 
