@@ -30,7 +30,7 @@ This project explores dynamic binary optimization techniques at the processor le
 Publications
 ------
 **CHEx86: Context-Sensitive Enforcement of Memory Safety via Microcode-Enabled Capabilities**\
-*2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)* **Acceptance Rate: 18%**\
+*2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)* **(Acceptance Rate: 18%)**\
 [[PDF]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf) [[Video]](https://fast.wistia.net/embed/iframe/xrq0ht9iic)
 
 **Online Profiling for Cluster-Specific Variable Rate Refreshing in High-Density DRAM Systems**\
