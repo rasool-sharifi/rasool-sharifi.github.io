@@ -14,14 +14,14 @@ I am a third year Ph.D. student in the Computer Science Department of University
 
 Projects
 ------
-**Rethinking Persistent Memory Systems**
-Advised by Prof. Ashish Venkat
+**Rethinking Persistent Memory Systems**\
+*Advised by Prof. Ashish Venkat*\
 
-**Rethinking Persistent Memory Systems**
-Advised by Prof. Ashish Venkat and Prof. Kevin Skadron
+**Rethinking Persistent Memory Systems**\
+*Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*\
 
-**Rethinking Persistent Memory Systems**
-Advised by Prof. Ashish Venkat and Prof. Kevin Skadron
+**Rethinking Persistent Memory Systems**\
+*Advised by Prof. Ashish Venkat and Prof. Kevin Skadron*\
 
 
 Publications
