@@ -12,10 +12,16 @@ About me
 ------
 I am a third year Ph.D. student in the Computer Science Department of University of Virginia, working with Prof. Ashish Venkat on Computer Architecture. My research interests lie broadly in Computer Architecture, Compilers, and Computer Security. My research explores novel hardware and software techniques to design secure machines while maintaining performance, energy efficiency,and high programmability. I’m also interested in applying novel machine learning techniques to detect and mitigate security threats. I have extensive experience in designing high performance, energy efficient FPGA and embedded systemsfor core consumer products. You can find my CV here. 
 
-
-
 Projects
 ------
+**Rethinking Persistent Memory Systems**
+Advised by Prof. Ashish Venkat
+
+**Rethinking Persistent Memory Systems**
+Advised by Prof. Ashish Venkat and Prof. Kevin Skadron
+
+**Rethinking Persistent Memory Systems**
+Advised by Prof. Ashish Venkat and Prof. Kevin Skadron
 
 
 Publications
@@ -28,6 +34,4 @@ Publications
 *2017 22nd IEEE European Test Symposium (ETS)*\
 [[PDF]](http://rasool-sharifi.github.io/files/2017OnlineProfiling.pdf)
 
-News
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
