@@ -22,7 +22,7 @@ Publications
 ------
 **CHEx86: Context-Sensitive Enforcement of Memory Safety via Microcode-Enabled Capabilities**\
 *2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)*\
-[[PDF]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf) [[Talk]](https://fast.wistia.net/embed/iframe/xrq0ht9iic)
+[[PDF]](http://rasool-sharifi.github.io/files/2020CHEx86.pdf) [[Video]](https://fast.wistia.net/embed/iframe/xrq0ht9iic)
 
 **Online Profiling for Cluster-Specific Variable Rate Refreshing in High-Density DRAM Systems**\
 *2017 22nd IEEE European Test Symposium (ETS)*\
