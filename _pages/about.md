@@ -22,3 +22,20 @@ Welcome to my academic webpage! I am a PhD student at Universityof South Carolin
 - Efficient inference strategies for large language models (LLMs)
 
 ---
+
+## Experience
+
+### Past Internship at d-Matrix.ai
+**Duration:** 9 months
+- Designed a high-level multi-pass framework bridging MLIR compiler and simulator backend for efficient LLM inference on Corsair devices.
+- Explored parallelism strategies and identified architectural bottlenecks, aiding in design improvements for Corsair devices.
+
+### Current Research:
+My current research is focused on optimizing compilers for DNN workloads. The goal is to leverage the advanced capabilities of LLMs to analyze and predict optimal compiler strategies for DNN workloads. LLMs, known for their vast knowledge bases and sophisticated pattern recognition capabilities, offer a promising avenue for refining the compilation process.   Central to our research is the exploration of how LLMs can influence and improve compiler optimizations. 
+---
+
+## Contact Information
+- [Email](asharifiATemailDOTscDOTedu)
+- [Google Schoolar](https://scholar.google.com/citations?user=PJwZvg8AAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/rasoolsharifi/)
+---
